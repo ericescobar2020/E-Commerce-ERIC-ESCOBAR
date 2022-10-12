@@ -80,3 +80,8 @@ imagen del Ecomerce:
 * La idea general es combinar la marca de la tienda y el logo para que quede algo similar a esta imagen.
 
 ![MasterTennis](https://www.mastertenis.com.ar/img/master-tenis-logo-1590532792.jpg)
+
+
+
+>link de la pagina de figma. 
+[fitma-Ecomerce](https://www.figma.com/file/mVffV9g5m3DJPxGC63cas6/Untitled)
